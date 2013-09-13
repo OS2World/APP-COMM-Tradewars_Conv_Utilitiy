@@ -1,0 +1,3 @@
+Conversion utility only for TWBFind v0.13 users.
+Will rewrite binary database files into v0.14 and
+later format.  Source and executables included.
